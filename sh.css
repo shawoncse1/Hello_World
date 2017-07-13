@@ -1,0 +1,60 @@
+.{margin:0;padding:0}
+body{font-family:'open sans',sans-serif; background:#01A0DB;}
+.column, .column h1, .column h2, .social-profile a{
+   transition:all 0.9s ease 0s;
+   -moz-transition:all 0.9s ease 0s;
+   -webkit-transition:0.9s ease 0s;
+}
+
+
+.column{color:#fff;text-align:center}
+.column h1{
+   font-size:50px;
+   font-weight:normal;
+   line-height:50px;
+   margin-bottom:50px;
+   margin-top:138px;
+  }
+  .column h1:hover{
+   font-size:60px;
+   line-height:60px;  
+  }
+  
+.column h2{font-size:30px;
+   font-weight:normal;
+   line-height:35px;
+   margin-bottom:15px;
+   }
+   
+   .column h2:hover{font-size:50px;
+       line-height:50px;
+  
+   }
+   
+.column h2 span{background:white;color:black;padding:0 10px} 
+.social-profile{}
+.social-profile a{
+   color:white;
+   text-decoration:none;
+    padding:10px 15px;   
+   display:inline-block;
+   margin-top:9px;
+   font-size:18px;
+  }
+  
+  .social-profile a:hover{
+     font-size:25px;
+    padding:10px 15px;   
+    text-decoration:none}
+  
+.facebook{background:#4166BB}
+.facebook:hover{background:#32CEFF}
+.twitter{background:#40A62C}
+.twitter:hover{background:#4166BB}
+.gpplus{background:#EA0000}
+.gpplus:hover{background:#4166BB}}
+
+
+
+
+
